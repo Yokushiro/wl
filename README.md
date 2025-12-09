@@ -24,7 +24,7 @@
 
 **iOS**: [**Streisand**](https://apps.apple.com/ru/app/streisand/id6450534064), [**Karing**](https://apps.apple.com/ru/app/karing/id6472431552). Не рекомендую использовать Happ из-за нестабильной работы пинга на iOS.
 
-**Android**: [**Exclave**](https://github.com/dyhkwong/Exclave), [**v2rayNG**](https://github.com/2dust/v2rayNG)
+**Android**: [**Exclave**](https://github.com/dyhkwong/Exclave), [**v2rayNG**](https://github.com/2dust/v2rayNG), [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
 **Windows**: [**Throne**](https://github.com/throneproj/Throne)
 
